@@ -1,0 +1,5 @@
+license_expressions:
+  - unknown
+  - proprietary-license
+  - openssl-ssleay
+notes: a license from Gentoo

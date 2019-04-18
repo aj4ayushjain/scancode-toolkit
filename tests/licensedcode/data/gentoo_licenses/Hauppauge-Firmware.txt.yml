@@ -1,0 +1,4 @@
+license_expressions:
+  - hauppauge-firmware-eula
+  - hauppauge-firmware-oem
+notes: a license from Gentoo

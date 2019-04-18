@@ -1,0 +1,20 @@
+license_expressions:
+  - gpl-2.0 WITH mysql-floss-exception-2.0
+  - apsl-2.0
+  - artistic-2.0
+  - bsd-new
+  - cpl-1.0
+  - lgpl-2.0
+  - mit
+  - mit
+  - mpl-1.0
+  - osl-2.0
+  - cnri-python-1.6
+  - python
+  - sleepycat
+  - x11-xconsortium
+  - zlib
+  - zpl-2.0
+  - gpl-2.0 WITH mysql-floss-exception-2.0
+  - gpl-2.0
+notes: a license from Gentoo

@@ -1,0 +1,4 @@
+license_expressions:
+  - gpl-2.0-plus WITH upx-exception-2.0-plus
+  - upx-exception-2.0-plus
+notes: a license from Gentoo

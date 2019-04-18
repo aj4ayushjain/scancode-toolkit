@@ -1,0 +1,5 @@
+license_expressions:
+  - mit-modern
+  - argouml
+  - newlib-historical
+notes: a license from Gentoo

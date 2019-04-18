@@ -1,0 +1,5 @@
+license_expressions:
+  - openssl
+  - proprietary-license
+  - paul-mackerras-new
+notes: a license from Gentoo

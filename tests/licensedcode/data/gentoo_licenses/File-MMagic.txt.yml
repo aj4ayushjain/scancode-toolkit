@@ -1,0 +1,4 @@
+license_expressions:
+  - hs-regexp
+  - openssl
+notes: a license from Gentoo

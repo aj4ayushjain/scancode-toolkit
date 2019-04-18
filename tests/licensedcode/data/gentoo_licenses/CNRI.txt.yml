@@ -1,0 +1,4 @@
+license_expressions:
+  - cnri-python-1.6
+  - python-cwi
+notes: a license from Gentoo

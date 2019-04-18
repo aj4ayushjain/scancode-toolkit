@@ -1,0 +1,21 @@
+license_expressions:
+  - bsd-new
+  - bsd-new
+  - delorie-historical
+  - gpl-1.0-plus
+  - gpl-1.0-plus
+  - gpl-1.0-plus
+  - amd-historical
+  - newlib-historical
+  - sunpro
+  - osf-1990
+  - nilsson-historical
+  - bsd-original
+  - bsd-simplified
+  - bsd-new
+  - newlib-historical
+  - bsd-new
+  - gpl-1.0-plus
+  - gpl-2.0-plus WITH gcc-compiler-exception-2.0 AND gpl-2.0-plus WITH gcc-linking-exception-2.0
+  - bsd-new
+notes: a license from Gentoo

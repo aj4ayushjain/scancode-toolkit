@@ -109,12 +109,3 @@ class TestDebLicCheckTestsDataDriven(unittest.TestCase):
 build_tests(
     join(TEST_DIR, 'debian/licensecheck'),
     clazz=TestDebLicCheckTestsDataDriven, regen=False)
-
-class TestsGentooLicensesDataDriven(unittest.TestCase):
-    # licenses from gentoo
-    pass
-
-build_tests(
-    join(TEST_DIR, 'gentoo_licenses'),
-    clazz=TestsGentooLicensesDataDriven, regen=False)
-
